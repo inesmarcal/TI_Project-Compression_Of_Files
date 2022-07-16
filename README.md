@@ -1,2 +1,8 @@
 # TI_Project-Compression_Of_Files
-A group of programs that apply some compression algorithms in some files. Also helps to do a study about the efficiency of this algorithms.
+- [x] Finished
+
+## Description:
+In 2020 it was asked to do a study of some algorithms of compression applied on images vs the algorithm of PNG.<br>
+
+## To run this project:
+[WARNING] Python 3.9 and the libraries refered must be installed <br>
