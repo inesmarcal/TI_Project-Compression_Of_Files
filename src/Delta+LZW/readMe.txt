@@ -1,0 +1,3 @@
+Para implementar o Delta Encoding aliado a LZW em fontes de informação, basta ter os ficheiros que se pretendem comprimir no mesmo diretório do Delta.py. Aqui, vai-se gerar um ficheiro que posteriormente será enviado para o MyComp.java. Para comprimir um ficheiro de nome "x" é necessário alterar na main do Delta.py na parte que diz "file = ..." para "file = x". Após a execução deste programa, vamos obter um ficheiro de nome "xDelta.dat". Após isso, metemos esse ficheiro no mesmo diretório da pasta .idea do LZW e alteramos na main de MyComp.java onde diz "filename = ..." para "filename = nome do ficheiro que saiu do Delta.py".
+
+No final, o ficheiro que esta combinação irá criar terá um nome do tipo "xDELTA.lzw"

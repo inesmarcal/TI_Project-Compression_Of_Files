@@ -1,0 +1,2 @@
+Este é um código que não serve para gerar ficheiros. Apenas calcula a entropia e o potencial de compressão entrópico antes de se aplicar o Delta Encoding e depois de o fazer. O código para gerar ficheiros após se aplicar esta transformada está noutras pastas. 
+Para saber estas informações de uma fonte de informação, basta ter os ficheiros que se pretendem avaliar no mesmo diretório do Delta_Encoding.py. Tendo esta condição assegurada, para avaliar um ficheiro de nome "x" é necessário alterar na main do Delta_Encoding.py na parte que diz "file = ..." para "file = x".

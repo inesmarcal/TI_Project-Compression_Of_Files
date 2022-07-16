@@ -1,0 +1,1 @@
+Para implementar o algoritmo LZW em fontes de informação, basta ter os ficheiros que se pretendem comprimir no mesmo diretório do MyComp.java. Tendo estas condições reunidas, para comprimir um ficheiro de nome "x" é apenas necessário alterar na main do MyComp.java na parte que diz "filename = ..."; para "filename = x".
